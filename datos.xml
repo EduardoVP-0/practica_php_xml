@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <libro id="101" categoria="Programación">
+        <tituloooooo>PHP y XML</titulo>
+        <autor>Laura Gómez</autor>
+        <anio>2024</anio>
+        <precio moneda="MXN">450.00</precio>
+        <descripcion><![CDATA[Guía completa sobre el uso de <b>libxml</b>, SimpleXML y manejo de streams en PHP.]]></descripcion>
+    
+    <libro id="102" categoria="Bases de Datos">
+        <titulo>Diseño de Datos Estructurados</titulo>
+        <autor>Carlos Ruiz</autor>
+        <anio>2023</anio>
+        <precio moneda="MXN">380.50</precio>
+        <descripcion><![CDATA[Aprende a estructurar información con <i>XML</i>, JSON y bases de datos relacionales.]]></descripcion>
+    </libro>
+    <libro id="103" categoria="Arquitectura Web">
+        <titulo>Servicios Web y APIs</titulo>
+        <autor>Elena Torres</autor>
+        <anio>2025</anio>
+        <precio moneda="MXN">520.00</precio>
+        <descripcion><![CDATA[Integración de sistemas mediante protocolos estándar & validación de esquemas.]]></descripcion>
+    </libro>
+</catalogo>
